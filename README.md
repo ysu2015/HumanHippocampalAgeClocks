@@ -1,6 +1,6 @@
 # HumanHippocampalAgingClock
-R code for analyzing cell-type specific transcriptome changes in human hippocampus across lifespan
-
+R code for analyzing cell-type specific transcriptome changes in the human hippocampus across the lifespan
+Reference:
 ""
 Datasets could be download from GSE185553, GSE198323 and GSE199243 and UCSC Cell Brower (https://hippo-lifespan.cells.ucsc.edu)
 
